@@ -49,6 +49,14 @@ h1 {
 
 input {
   margin-top: 80px;
+  background: 0;
+  border: 0;
+  outline: none;
+  width: 80vw;
+  max-width: 400px;
+  font-size: 1.5em;
+  transition: padding 0.3s 0.2s ease;
+  text-align: center;
 }
 img {
   margin: 0 auto;
